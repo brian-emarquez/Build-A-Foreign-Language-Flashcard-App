@@ -7,8 +7,8 @@ from random import randint
 
 
 root = Tk()
-root.title('Python Tkinter Build A Foreign Language Flashcard App')
-root.iconbitmap('Python Tkinter Build A Foreign Language Flashcard App/icons/iconfinde.ico')
+root.title('Build A Foreign Language Flashcard App')
+root.iconbitmap('icons/iconfinde.ico')
 root.geometry("550x410")
 
 words  = [
